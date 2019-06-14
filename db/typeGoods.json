@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "goodsId": 1,
+      "goodsImg": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3826044211,3208502519&fm=26&gp=0.jpg",
+      "goodsName": "香辣鸡腿堡",
+      "price": 18
+    },
+    {
+      "goodsId": 2,
+      "goodsImg":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2320398951,3489651495&fm=26&gp=0.jpg",
+      "goodsName": "田园鸡腿堡",
+      "price": 15
+    },
+    {
+      "goodsId": 3,
+      "goodsImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=763060720,898766955&fm=26&gp=0.jpg",
+      "goodsName": "和风汉堡",
+      "price": 15
+    },
+    {
+      "goodsId": 4,
+      "goodsImg": "http://img1.imgtn.bdimg.com/it/u=3812155232,435543563&fm=26&gp=0.jpg",
+      "goodsName": "新奥尔良烤鸡腿堡",
+      "price": 12
+    },
+    {
+      "goodsId": 5,
+      "goodsImg": "https://ali.xinshipu.cn/20100506/original/1273104898968.jpg@288w_216h_99q_1e_1c.jpg",
+      "goodsName": "什锦脆汉堡",
+      "price": 15
+    },
+    {
+      "goodsId": 6,
+      "goodsImg": "https://ali.xinshipu.cn/20110625/original/1308973336489.jpg@288w_216h_99q_1e_1c.jpg",
+      "goodsName": "火辣汉堡",
+      "price": 15
+    }
+  ],
+  [
+    {
+      "goodsId": 7,
+      "goodsImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3243602646,2992354655&fm=26&gp=0.jpg",
+      "goodsName": "大包薯条",
+      "price": 18
+    },
+    {
+      "goodsId": 8,
+      "goodsImg": "http://pic146.nipic.com/file/20171114/6328424_162606347121_2.jpg",
+      "goodsName": "脆皮炸鸡腿",
+      "price": 20
+    },
+    {
+      "goodsId": 9,
+      "goodsImg": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3054936925,1873359414&fm=26&gp=0.jpg",
+      "goodsName": "魔法鸡块",
+      "price": 20
+    },
+    {
+      "goodsId": 10,
+      "goodsImg": "https://img11.360buyimg.com/n7/jfs/t1/27135/5/14970/453129/5cad91bfEb48e6d03/2690924405bfd099.jpg",
+      "goodsName": "墨西哥鸡肉卷",
+      "price": 20
+    }
+  ],
+  [
+    {
+      "goodsId": 10,
+      "goodsImg": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3676303379,4181735793&fm=26&gp=0.jpg",
+      "goodsName": "可乐大杯",
+      "price": 10
+    },
+    {
+      "goodsId": 11,
+      "goodsImg": "https://f10.baidu.com/it/u=519157301,2334878114&fm=72",
+      "goodsName": "雪顶咖啡",
+      "price": 18
+    },
+    {
+      "goodsId": 12,
+      "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/637_679608.jpg",
+      "goodsName": "抹茶拿铁(中)",
+      "price": 17
+    },
+    {
+      "goodsId": 13,
+      "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/630_653083.jpg",
+      "goodsName": "冰美式",
+      "price": 18
+    }
+  ],
+  [
+    {
+      "goodsId": 14,
+      "goodsImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3717643872,965623709&fm=11&gp=0.jpg",
+      "goodsName": "儿童欢乐套餐",
+      "price": 25
+    },
+    {
+      "goodsId": 15,
+      "goodsImg": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=178676919,562088778&fm=26&gp=0.jpg",
+      "goodsName": "快乐全家桶",
+      "price": 99
+    },
+    {
+      "goodsId": 16,
+      "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/637_679544.jpg",
+      "goodsName": "毕业欢乐桶",
+      "price": 99
+    },
+    {
+      "goodsId": 17,
+      "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/637_673702.jpg",
+      "goodsName": "堡堡双人餐虾鸡腿堡",
+      "price": 99
+    }
+  ]
+]
